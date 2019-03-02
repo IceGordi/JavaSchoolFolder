@@ -1,0 +1,40 @@
+1. pool.java Peter the pool boy has a pool that needs additional water. He needs to add water to the pool from a garden hose connected to the homeowner's house. He needs to determine, given a rate of flow, how long it will take to fill the pool to the desired depth so he can tell the homeowner when to turn the hose off.
+He needs to know how long it will take to fill the pool. Write a java program to help him. Name your file pool.java . Below, input taken from user is underlined.
+
+To start:
+
+(a) Perform two of these calculations by hand. You will use these answers to verify your program later.
+(b) What should the types of the inputs be?
+(c) Are there input values that don't make sense?
+(d) What are the types of outputs?
+(e) Will you need to do any rounding? If so, when?
+
+
+ Pool length (feet):  40
+  Pool width (feet):  20
+  Additional depth desired (inches):  1
+  Water fill rate (gal/min):  6.7
+  Time:  01:14:26
+
+
+
+
+
+  Calculations:
+
+  	12 inches = 1 feet
+
+  length * width = area feet^3
+  length * width * height = volume feet^3
+
+  fill rate = volume gal/min 
+ 
+
+  1 feet^3 = 7.480543 gal
+
+  time displayed in hours:minutes:seconds
+
+--------------------------------------------------
+
+
+
